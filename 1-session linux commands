@@ -1,0 +1,118 @@
+# Linux Command History
+
+```bash
+1   whoami
+2   hostname
+3   pwd
+4   ls
+5   ls -la
+6   -l
+7   -a
+8   cd
+9   pwd
+10  mkdir demo
+11  cd demo
+12  cd ..
+13  touvh file.txt
+14  touch file.txt
+15  ls
+16  ls -la
+17  mv file.txt file3.txt
+18  ls
+19  rm
+20  rm file3.txt
+21  ls -la
+22  free -h
+23  df -h
+24  free -m
+25  free -g
+26  top
+27  clear
+28  ps aux
+29  ps -e
+30  ps -ef
+31  ps -u shaikthaheera
+32  cd demo
+33  cd
+34  ps -aux
+35  ps -u shaikthaheera
+36  ps -p 65835
+37  ls
+38  ip addr
+39  ip link
+40  hostname -i
+41  ping -c 4 google.com
+42  ss -tuln
+43  nslookup shaikthaheera.com
+44  nslookup edukron.com
+45  traceroute google.com
+46  sudo apt install traceroute
+47  traceroute google.com
+48  traceroute shaikthaheera.com
+49  traceroute edukron.com
+50  ps -ef
+51  ps -aux
+52  top
+53  htop
+54  pggrep python3
+55  pegrep python3
+56  pgrep python3
+57  ps
+58  pidog bash
+59  pidof bash
+60  pidof sshd
+61  pstree
+62  ps -f
+63  kill 78015
+64  ps -p 78015
+65  pgrep -af python
+66  sudo kill 78015
+67  ps
+68  ps -ef
+69  pstree
+70  clear
+71  pwd
+72  clear
+73  pwd
+74  nano sample.sh
+75  cat sample.sh
+76  nano sample.sh
+77  bash sample.sh
+78  nano sample1.sh
+79  cat sample1.sh
+80  bash sample1.sh
+81  bash sample.sh
+82  pwd
+83  clear
+84  nano monitor.sh
+85  cat monitor.sh
+86  bash mponitor.sh
+87  bash monitor.sh
+88  df -h
+89  nano test.sh
+90  cat test.sh
+91  nano test.sh
+92  cat test.sh
+93  bash test.sh
+94  nano if.sh
+95  cat if.sh
+96  bash if.sh
+97  nano for.sh
+98  cat for.sh
+99  bash for.sh
+100 nano for.sh
+101 bash for.sh
+102 ls
+103 nano for.sh
+104 bash for.sh
+105 nano testserver.sh
+106 cat testserver.sh
+107 bash testserver.sh
+108 nano testserver.sh
+109 bash testserver.sh
+110 nano testserver.sh
+111 bash testserver.sh
+112 history
+113 hostname
+114 history
+```
