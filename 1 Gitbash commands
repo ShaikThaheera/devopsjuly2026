@@ -1,0 +1,60 @@
+   21  cd git
+   34  cd git
+   64  vi git
+   65  ls git
+   67  rm git
+   73  rmdir git
+   75  cd git
+   77  rm git.file-1 git.file-3
+   78  rm git.file-1 git.file3
+   81  cd git
+   82  rmdir git
+   86  rmdir git
+   87  cd git
+   91  rmdir git
+   94  rmdir -s git
+   95  rmdir -s 0 git
+   96  rm -r git
+  108  touch git.file-1
+  109  touch git.file-2 git.file3
+  111  cd git
+  114  cd git
+  116  rm git.file-2
+  118  insert i git
+  119  vi git
+  125  mkdir git
+  128  touch git-1
+  154  git init
+  155  git add README .md
+  165  git --version
+  166  git --version
+  167  git --version
+  169  git config --global user.name "SHAIK THAHEERA"
+  170  git config --global user.email "thaheerashaik03@gmail.com"
+  171  git config --list
+  172  git init
+  173  git clone <https://github.com/ShaikThaheera/Demo-Repo.git~>
+  174  git clone <https://github.com/ShaikThaheera/Demo-Repo.git>
+  175  git clone https://github.com/ShaikThaheera/Demo-Repo.git
+  176  git status
+  177  git add app.py
+  178  git add EasyPlex.lnk
+  179  git add.
+  180  git add .
+  181  git commit -m "Added login page"
+  182  git log
+  183  git log --oneline
+  184  git diff
+  185  git branches
+  186  git branch
+  187  git branch master
+  188  git branch develpoment
+  189  git switch development
+  190  git switch develpoment
+  191  git switch -c develpoment
+  192  git merge
+  193  git pull
+  194  git push
+  195  history | grep git
+
+  114  history
